@@ -97,9 +97,7 @@ echo "And All Member VIP Cheater"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
 sh SPAMBOMSMS.sh
-fi
-
-if
+iif
 [ $mrrm = 0 ] || [ $mrrm = 0 ]
 then
 echo "\033[31;1m Keluar"
