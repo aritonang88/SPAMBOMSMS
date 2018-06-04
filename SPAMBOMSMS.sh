@@ -97,7 +97,7 @@ sleep 1
 echo "And All Member VIP Cheater"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
-sh LITESPAM.sh
+sh SPAMBOMSMS.sh
 fi
 
 if
