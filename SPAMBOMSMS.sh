@@ -84,18 +84,18 @@ echo "\033[33;1mKarya: Yos Sihar"
 sleep 1
 echo "\033[32;1mVersi: v1"
 sleep 1
-echo "\033[36;1mTeam: ★Indonesia Security Lite★"
+echo "\033[36;1mTeam: ★YOSARITONANG389★"
 sleep 1
-echo "\033[34;1mInformasi Lebih Lanjut Kunjungi: https://youtube.com/IndonesiaSecurityLite"
+echo "\033[34;1mInformasi Lebih Lanjut Via Call/Wa No Hp"
 echo "\033[31;1m Spesial Thanks To: "
 echo "\033[36;1m"
-echo "Handika Pratama"
-echo "まやちゃん"
-echo "Baby Cyber Team"
-echo "SBG-Team"
-echo "Ponorogo Defacer Team"
+echo "ARITONANG Family"
+echo "My Beibh"
+echo "VIP Member Dusato"
+echo "VIP Member Darksecret"
+echo "Point Blank Garena Indonesia"
 sleep 1
-echo "And All Member Indonesia Security Lite"
+echo "And All Member VIP Cheater PBGI"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
 sh SPAMBOMSMS.sh
