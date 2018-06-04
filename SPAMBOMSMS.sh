@@ -27,7 +27,6 @@ clear
 echo "\033[34;1m"
 figlet "tokopedia"
 php 1.php
-fi
 
 if
 [ $mrrm = 2 ] || [ $mrrm = 2 ]
