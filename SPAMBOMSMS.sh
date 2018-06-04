@@ -76,7 +76,7 @@ if
 [ $mrrm = 81 ] || [ $mrrm = 81 ]
 then
 clear
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "SPAMBOMSMS"
 echo "\033[31;1mNama tools: SPAMBOMSMS"
 sleep 1
 echo "\033[33;1mKarya: Yos Sihar"
