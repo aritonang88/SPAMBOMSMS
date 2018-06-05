@@ -27,7 +27,7 @@ clear
 echo "\033[34;1m"
 figlet "tokopedia"
 php 1.php
-fi
+
 
 if
 [ $mrrm = 2 ] || [ $mrrm = 2 ]
@@ -36,7 +36,7 @@ clear
 echo "\033[31;1m"
 toilet "T-Sel"
 php 2.php
-fi
+
 
 if [ $mrrm = 3 ] || [ $mrrm = 3 ]
 then
@@ -44,7 +44,7 @@ clear
 echo "\033[31;1m"
 figlet "Mthr Mall"
 php 3.php
-fi
+
 
 
 if [ $mrrm = 4 ] || [ $mrrm = 4 ]
@@ -53,7 +53,7 @@ clear
 toilet -f mono12 -F gay "PHD"
 echo "\033[30;1m"
 php 4.php
-fi
+
 
 if
 [ $mrrm = 5 ] || [ $mrrm = 5 ]
@@ -62,7 +62,7 @@ clear
 toilet -f mono12 -F gay "Jd.Id"
 echo "\033[33;1m"
 php 5.php
-fi
+
 
 if
 [ $mrrm = 6 ] || [ $mrrm = 6 ]
@@ -71,7 +71,7 @@ clear
 toilet -f standard -F gay "Email Bomber"
 echo "\033[36;1m"
 python2 6.py
-fi
+
 
 if
 [ $mrrm = 81 ] || [ $mrrm = 81 ]
@@ -99,7 +99,7 @@ echo "And All Member VIP Cheater PBGI"
 echo "\033[30;1m tunggu 8 detik"
 sleep 8
 sh SPAMBOMSMS.sh
-fi
+
 
 if
 [ $mrrm = 0 ] || [ $mrrm = 0 ]
@@ -108,5 +108,5 @@ echo "\033[31;1m Keluar"
 sleep 1
 echo "\033[32;1m Sampai berjumpa lagi :)"
 sleep 1
-fi
+
 
